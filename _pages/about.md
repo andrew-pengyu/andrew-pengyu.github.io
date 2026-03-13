@@ -31,19 +31,33 @@ His research focuses on Pattern Recognition, Time Series Foundational Model, AI 
 
 
 # 📄 Pre-Prints
-(*†Equal contribution, *Corresponding authors)
+(†Equal contribution, \*Corresponding authors)
 
-### TechReport 2025
-**AdaBrain-Bench: Benchmarking Brain Foundation Models for Brain-Computer Interface Applications**  
-[Paper](https://arxiv.org/abs/2507.09882) | [Code](https://github.com/Jamine-W/AdaBrain-Bench)  
-Jiamin Wu†, Zichen Ren†, Junyu Wang, **Pengyu Zhu**, Yonghao Song, Mianxin Liu, Qihao Zheng, Lei Bai, Wanli Ouyang*, Chunfeng Song*
-**Technical Report @ 2025**
 
-### TechReport 2025
-**UniMind: Unleashing the Power of LLMs for Unified Multi-Task Brain Decoding**  
-[Paper](https://arxiv.org/abs/2506.18962)  
-Weiheng Lu†, Chunfeng Song†, Jiamin Wu*, **Pengyu Zhu**, Yuchen Zhou, Weijian Mai, Qihao Zheng, Wanli Ouyang  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2025</div><img src='images/adabrainbench.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**AdaBrain-Bench: Benchmarking Brain Foundation Models for Brain-Computer Interface Applications**
+[[Paper](https://arxiv.org/abs/2507.09882)]
+[[Code](https://github.com/Jamine-W/AdaBrain-Bench)]
+
+Jiamin Wu†, Zichen Ren†, Junyu Wang, **Pengyu Zhu**, Yonghao Song, Mianxin Liu, Qihao Zheng, Lei Bai, Wanli Ouyang\*, Chunfeng Song\*
+
 **Technical Report @ 2025**
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechReport 2025</div><img src='images/unmind.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**UniMind: Unleashing the Power of LLMs for Unified Multi-Task Brain Decoding**
+[[Paper](https://arxiv.org/abs/2506.18962)]
+
+Weiheng Lu†, Chunfeng Song†, Jiamin Wu\*, **Pengyu Zhu**, Yuchen Zhou, Weijian Mai, Qihao Zheng, Wanli Ouyang
+
+**Technical Report @ 2025**
+</div>
+</div>
 
 
 # 📝 Publications 
