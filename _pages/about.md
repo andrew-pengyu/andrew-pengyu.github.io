@@ -17,14 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Pengyu Zhu (朱鹏宇) is currently a Master’s student in Artificial Intelligence at North China Electric Power University (NCEPU), working closely with Prof. Bing Li from the Institute of Automation, Chinese Academy of Sciences (CASIA). He received his Bachelor’s degree in Artificial Intelligence from NCEPU in 2025, under the supervision of Prof. Zhenyu Wang.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+He studied as an exchange undergraduate at the University of Pisa, Italy, under the “Excellence Engineer Program,” funded by the China Scholarship Council, under the guidance of Academician Umberto Desideri, Prof. Pietro Ducange, and Researcher Fabrizio Ruffini.
+His research focuses on pattern recognition, foundational models for time series, AI for science, and brain-computer interfaces. He has participated in the CrossLAB and FoReLAB research projects.
+
+He has published several papers at top international AI conferences, with total <a href='https://scholar.google.com/citations?user=39C83N4AAAAJ&hl=en'>Google Scholar citations <strong><span id='total_cit'>X+</span></strong></a> (You can also use the Google Scholar badge <a href='https://scholar.google.com/citations?user=39C83N4AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ 
 
 # 📝 Publications 
 
