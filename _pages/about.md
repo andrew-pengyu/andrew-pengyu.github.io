@@ -29,8 +29,9 @@ He received his Bachelor’s degree in Artificial Intelligence from NCEPU in 202
 - *2021.09 - 2025.06*, North China Electric Power University, Artificial Intelligence Integrated Bachelor–Master Program, Bachelor’s Degree in Artificial Intelligence. 
 
 
-
 # 🎖 Honors and Awards
+
+# 🔥 News
 
 
 # 📄 Pre-Prints
