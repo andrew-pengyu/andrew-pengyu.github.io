@@ -17,16 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Pengyu Zhu (朱鹏宇) is currently a Master’s student in Artificial Intelligence at North China Electric Power University (NCEPU), working closely with Prof. Bing Li from the Institute of Automation, Chinese Academy of Sciences (CASIA). He received his Bachelor’s degree in Artificial Intelligence from NCEPU in 2025, under the supervision of Prof. Zhenyu Wang.
+Pengyu Zhu (朱鹏宇) is currently a Master’s student in Artificial Intelligence at North China Electric Power University ([NCEPU](https://www.ncepu.edu.cn/)), working closely with [Prof. Bing Li](https://people.ucas.edu.cn/~bingli) from the Institute of Automation, Chinese Academy of Sciences ([CASIA](http://www.ia.ac.cn)). He received his Bachelor’s degree in Artificial Intelligence from NCEPU in 2025, under the supervision of [Prof. Zhenyu Wang](https://cce.ncepu.edu.cn/szdw/jsml/kzllyxtjys/df1bcd4fb53746fd8d8dc08ab61f8d2b.htm).
 
-He studied as an exchange undergraduate at the University of Pisa, Italy, under the “Excellence Engineer Program,” funded by the China Scholarship Council, under the guidance of Academician Umberto Desideri, Prof. Pietro Ducange, and Researcher Fabrizio Ruffini.
+He studied as an exchange undergraduate at the University of Pisa, Italy, under the “Excellence Engineer Program,” funded by the China Scholarship Council, under the guidance of [Prof. Umberto Desideri](https://people.unipi.it/umberto_desideri/curriculum/), [Prof. Pietro Ducange](https://scholar.google.com/citations?user=HCgZqXEAAAAJ&hl=en), and [Researcher Fabrizio Ruffini](https://scholar.google.com/citations?user=qLBgBmwAAAAJ&hl=en).
 His research focuses on Pattern Recognition, Time Series Foundational Model, AI for science, and Brain-Computer Interfaces. 
-
-
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
 
