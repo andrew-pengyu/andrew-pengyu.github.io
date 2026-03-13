@@ -27,7 +27,24 @@ His research focuses on Pattern Recognition, Time Series Foundational Model, AI 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
- 
+
+
+
+# 📄 Pre-Prints
+(*†Equal contribution, *Corresponding authors)
+
+### TechReport 2025
+**AdaBrain-Bench: Benchmarking Brain Foundation Models for Brain-Computer Interface Applications**  
+[Paper](https://arxiv.org/abs/2507.09882) | [Code](https://github.com/Jamine-W/AdaBrain-Bench)  
+Jiamin Wu†, Zichen Ren†, Junyu Wang, **Pengyu Zhu**, Yonghao Song, Mianxin Liu, Qihao Zheng, Lei Bai, Wanli Ouyang*, Chunfeng Song*
+**Technical Report @ 2025**
+
+### TechReport 2025
+**UniMind: Unleashing the Power of LLMs for Unified Multi-Task Brain Decoding**  
+[Paper](https://arxiv.org/abs/2506.18962)  
+Weiheng Lu†, Chunfeng Song†, Jiamin Wu*, **Pengyu Zhu**, Yuchen Zhou, Weijian Mai, Qihao Zheng, Wanli Ouyang  
+**Technical Report @ 2025**
+
 
 # 📝 Publications 
 
