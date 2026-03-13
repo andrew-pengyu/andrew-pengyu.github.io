@@ -20,9 +20,17 @@ redirect_from:
 Pengyu Zhu (朱鹏宇) is currently a Master’s student in Artificial Intelligence at North China Electric Power University ([NCEPU](https://www.ncepu.edu.cn/)), working closely with [Prof. Bing Li](https://people.ucas.edu.cn/~bingli) from the Institute of Automation, Chinese Academy of Sciences ([CASIA](http://www.ia.ac.cn)). His research focuses on Pattern Recognition, Time Series Foundational Model, AI for science, and Brain-Computer Interfaces. 
 
 
-He studied as an exchange undergraduate at the University of Pisa, Italy, under the “Excellence Engineer Program,” funded by the China Scholarship Council, under the guidance of [Prof. Umberto Desideri](https://people.unipi.it/umberto_desideri/curriculum/), [Prof. Pietro Ducange](https://scholar.google.com/citations?user=HCgZqXEAAAAJ&hl=en), and [Researcher Fabrizio Ruffini](https://scholar.google.com/citations?user=qLBgBmwAAAAJ&hl=en).
-He received his Bachelor’s degree in Artificial Intelligence from NCEPU in 2025, under the supervision of [Prof. Zhenyu Wang](https://cce.ncepu.edu.cn/szdw/jsml/kzllyxtjys/df1bcd4fb53746fd8d8dc08ab61f8d2b.htm).
+He received his Bachelor’s degree in Artificial Intelligence from NCEPU in 2025, under the supervision of [Prof. Zhenyu Wang](https://cce.ncepu.edu.cn/szdw/jsml/kzllyxtjys/df1bcd4fb53746fd8d8dc08ab61f8d2b.htm).He studied as an exchange undergraduate at the University of Pisa, Italy, under the “Excellence Engineer Program,” funded by the China Scholarship Council, under the guidance of [Prof. Umberto Desideri](https://people.unipi.it/umberto_desideri/curriculum/), [Prof. Pietro Ducange](https://scholar.google.com/citations?user=HCgZqXEAAAAJ&hl=en), and [Researcher Fabrizio Ruffini](https://scholar.google.com/citations?user=qLBgBmwAAAAJ&hl=en).
 
+
+# 📖 Educations
+- *2025.09 -  (now)*, North China Electric Power University, Artificial Intelligence Integrated Bachelor–Master Program, Master’s Degree in Artificial Intelligence. 
+- *2025.02 - 2025.06*, University of Pisa, “Excellence Engineer Program” funded by the China Scholarship Council, Undergraduate Transfer Student. 
+- *2021.09 - 2025.06*, North China Electric Power University, Artificial Intelligence Integrated Bachelor–Master Program, Bachelor’s Degree in Artificial Intelligence. 
+
+
+
+# 🎖 Honors and Awards
 
 
 # 📄 Pre-Prints
@@ -57,14 +65,6 @@ Weiheng Lu†, Chunfeng Song†, Jiamin Wu\*, **Pengyu Zhu**, Yuchen Zhou, Weiji
 
 # 📝 Publications 
 
-
-
-# 🎖 Honors and Awards
-
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
 # 💻 Internships
