@@ -65,8 +65,18 @@ Weiheng Lu†, Chunfeng Song†, Jiamin Wu\*, **Pengyu Zhu**, Yuchen Zhou, Weiji
 
 
 # 📝 Publications 
+(†Equal contribution, \*Corresponding authors)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR Letter. 2026</div><img src='images/GCM.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**A Jade Image Retrieval Method Based on Self-Supervised Learning and Dynamically Composable Attention**
+[[Paper](https://www.sciencedirect.com/science/article/pii/S016786552600139X)]
 
+Wenjia Li, Shangxiao Qiao, **Pengyu Zhu**, Yixuan Zhao, Zhenyu Wang\*
+
+**Pattern Recognition Letters** 2026
+</div>
+</div>
 
 # 💻 Internships
 - *Sep 2024 – Jun 2025*, [Shanghai Artificial Intelligence Laboratory](#), China
