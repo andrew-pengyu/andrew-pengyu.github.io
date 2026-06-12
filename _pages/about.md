@@ -56,7 +56,9 @@ Jiamin Wu†, Zichen Ren†, Junyu Wang, **Pengyu Zhu**, Yonghao Song, Mianxin L
 <div class='paper-box-text' markdown="1"> 
 **UniMind: Unleashing the Power of LLMs for Unified Multi-Task Brain Decoding**
 [[Paper](https://arxiv.org/abs/2506.18962)]
-
+[[Code](https://github.com/kaleidoyao/UniMind)]
+[[Project](https://kaleidoyao.github.io/UniMind-project/)]
+  
 Weiheng Lu†, Chunfeng Song†, Jiamin Wu\*, **Pengyu Zhu**, Yuchen Zhou, Weijian Mai, Qihao Zheng, Wanli Ouyang
 
 **Technical Report @ 2025**
