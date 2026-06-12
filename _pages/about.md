@@ -32,7 +32,7 @@ He received his Bachelor’s degree in Artificial Intelligence from NCEPU in 202
 # 🎖 Honors and Awards
 
 # 🔥 News
-
+- *2026.04*: &nbsp; One paper accepted by **Pattern Recognition Letters**.
 
 # 📄 Pre-Prints
 (†Equal contribution, \*Corresponding authors)
