@@ -66,6 +66,19 @@ Weiheng Lu†, Chunfeng Song†, Jiamin Wu\*, **Pengyu Zhu**, Yuchen Zhou, Weiji
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Survey 2026</div><img src='images/MedSeg.png' width="190" height="90"></div></div>
+<div class='paper-box-text' markdown="1"> 
+**A Comprehensive Survey of Medical Image Segmentation: Challenges, Benchmarks, and Beyond**
+[[Paper](https://arxiv.org/abs/2606.16153)]
+[[Code](https://github.com/andrew-pengyu/Awsome_MedSeg/tree/main)]
+
+  
+ **Pengyu Zhu†**, Xiaojing zhang†, Kunbo Zhang, Chunyan Zhang, Zhenyu Wang
+
+**Survey @ 2026**
+</div>
+</div>
+
 # 📝 Publications 
 (†Equal contribution, \*Corresponding authors)
 
