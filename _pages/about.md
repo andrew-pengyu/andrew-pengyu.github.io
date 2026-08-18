@@ -97,6 +97,23 @@ Wenjia Li, Shangxiao Qiao, **Pengyu Zhu**, Yixuan Zhao, Zhenyu Wang\*
 </div>
 
 # 💻 Internships
+
+
+### <img src="./assets/AILAB.png" width="24" align="center"> [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China
+
+**Sep 2024 – Jun 2025**  
+**Position:** Algorithm Intern, AI for Science Center, Research Tasks Department
+
+> **Research Context**  
+>- With the rapid development of AI, brain–computer interfaces (BCIs) have attracted growing attention, inspiring interest in building direct information interaction systems between the human brain and computers or external devices. Researchers have focused on constructing universal foundation models for brain science based on EEG signals to improve generalization across brain decoding tasks. These models are typically trained on multiple large-scale datasets to enhance adaptability and robustness in diverse tasks.  
+- Proposed a comprehensive evaluation **benchmark** to assess state-of-the-art EEG foundation models across six key decoding tasks, covering health monitoring, cognitive and affective analysis, and brain–computer interaction. Responsible for preprocessing all EEG datasets, reproducing and fine-tuning EEG foundation models such as LaBraM and CBraMod, as well as manuscript preparation and figure creation.  
+- Developed a universal EEG foundation model, **UniMind**, leveraging large language models (LLMs) to understand complex neural patterns, addressing the limitations of existing models in generalization across heterogeneous decoding tasks without task-specific fine-tuning. Responsible for constructing all EEG instruction datasets, model design and evaluation, as well as manuscript preparation and figure creation.
+
+
+
+
+
+
 - *Sep 2024 – Jun 2025*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China
 -  **Position:** Algorithm Intern, AI for Science Center, Research Tasks Department  
 - With the rapid development of AI, brain–computer interfaces (BCIs) have attracted growing attention, inspiring interest in building direct information interaction systems between the human brain and computers or external devices. Researchers have focused on constructing universal foundation models for brain science based on EEG signals to improve generalization across brain decoding tasks. These models are typically trained on multiple large-scale datasets to enhance adaptability and robustness in diverse tasks.  
