@@ -109,23 +109,17 @@ Wenjia Li, Shangxiao Qiao, **Pengyu Zhu**, Yixuan Zhao, Zhenyu Wang\*
 - Proposed a comprehensive evaluation **benchmark** to assess state-of-the-art EEG foundation models across six key decoding tasks, covering health monitoring, cognitive and affective analysis, and brain–computer interaction. Responsible for preprocessing all EEG datasets, reproducing and fine-tuning EEG foundation models such as LaBraM and CBraMod, as well as manuscript preparation and figure creation.  
 - Developed a universal EEG foundation model, **UniMind**, leveraging large language models (LLMs) to understand complex neural patterns, addressing the limitations of existing models in generalization across heterogeneous decoding tasks without task-specific fine-tuning. Responsible for constructing all EEG instruction datasets, model design and evaluation, as well as manuscript preparation and figure creation.
 
+### <img src="images/cas.png" width="24" align="center"> [Chinese Academy of Sciences, the Institute of Automation](https://www.ia.cas.cn/), China
 
+**Mar 2026 – present**  
+**Position:** Intern for Multimodal Time Series Foundation Model Algorithm, National Key Laboratory for Multimodal Artificial Intelligence Systems 
 
-
-
-
-- *Sep 2024 – Jun 2025*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China
--  **Position:** Algorithm Intern, AI for Science Center, Research Tasks Department  
-- With the rapid development of AI, brain–computer interfaces (BCIs) have attracted growing attention, inspiring interest in building direct information interaction systems between the human brain and computers or external devices. Researchers have focused on constructing universal foundation models for brain science based on EEG signals to improve generalization across brain decoding tasks. These models are typically trained on multiple large-scale datasets to enhance adaptability and robustness in diverse tasks.  
-- Proposed a comprehensive evaluation **benchmark** to assess state-of-the-art EEG foundation models across six key decoding tasks, covering health monitoring, cognitive and affective analysis, and brain–computer interaction. Responsible for preprocessing all EEG datasets, reproducing and fine-tuning EEG foundation models such as LaBraM and CBraMod, as well as manuscript preparation and figure creation.  
-- Developed a universal EEG foundation model, **UniMind**, leveraging large language models (LLMs) to understand complex neural patterns, addressing the limitations of existing models in generalization across heterogeneous decoding tasks without task-specific fine-tuning. Responsible for constructing all EEG instruction datasets, model design and evaluation, as well as manuscript preparation and figure creation.
-
-
-- *Mar 2026 – present*, [Chinese Academy of Sciences, the Institute of Automation](https://www.ia.cas.cn/), China
--  **Position:** Intern for Multimodal Time Series Foundation Model Algorithm, National Key Laboratory for Multimodal Artificial Intelligence Systems 
-- As digitalization and intelligent technologies continue to advance, time-series data have become ubiquitous in domains such as transportation scheduling, financial analysis, energy management, and industrial monitoring. Accurately forecasting future temporal dynamics is essential for risk warning, resource optimization, and intelligent decision-making, and has also driven the development of general-purpose time-series forecasting models and time-series foundation models.  
+> **Research Context**  
+>- As digitalization and intelligent technologies continue to advance, time-series data have become ubiquitous in domains such as transportation scheduling, financial analysis, energy management, and industrial monitoring. Accurately forecasting future temporal dynamics is essential for risk warning, resource optimization, and intelligent decision-making, and has also driven the development of general-purpose time-series forecasting models and time-series foundation models.  
 - Developed **GraphTime**, a graph-enhanced time-series forecasting framework. GraphTime models dynamic dependencies among variables and jointly learns cross-variable interactions and temporal dynamics, thereby improving forecasting accuracy and generalization in complex multivariate scenarios. Responsibilities include model architecture design and implementation, data processing, comparative and ablation experiments, paper writing, and figure design. **The research has been successfully deployed on the Daxing Airport Express of the Beijing Subway, providing technical support for intelligent railway operations and decision-making and enabling the translation of algorithmic research into real-world applications.**
 - **Conducted research on multimodal time-series foundation models.** Built upon general-purpose time-series foundation models such as Chronos-2 and incorporated heterogeneous information, including text and images, to learn more comprehensive temporal-semantic representations through cross-modal alignment and joint pre-training. The goal is to improve transferability and generalization across downstream tasks such as forecasting, classification, and anomaly detection. Responsibilities include multimodal dataset construction, model design and training, and downstream task evaluation.
+
+
 
 
 # 💼 Entrepreneurship
