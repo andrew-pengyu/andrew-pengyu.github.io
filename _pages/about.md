@@ -99,7 +99,7 @@ Wenjia Li, Shangxiao Qiao, **Pengyu Zhu**, Yixuan Zhao, Zhenyu Wang\*
 # 💻 Internships
 
 
-### <img src="./assets/AILAB.png" width="24" align="center"> [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China
+### <img src="images/AILAB.png" width="24" align="center"> [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China
 
 **Sep 2024 – Jun 2025**  
 **Position:** Algorithm Intern, AI for Science Center, Research Tasks Department
