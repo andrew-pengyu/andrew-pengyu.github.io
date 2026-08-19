@@ -112,7 +112,7 @@ Wenjia Li, Shangxiao Qiao, **Pengyu Zhu**, Yixuan Zhao, Zhenyu Wang\*
 ### <img src="images/cas.png" width="24" align="center"> [Chinese Academy of Sciences, the Institute of Automation](https://www.ia.cas.cn/), China
 
 **Mar 2026 – present**  
-**Position:** Intern for Multimodal Time Series Foundation Model Algorithm, National Key Laboratory for Multimodal Artificial Intelligence Systems 
+**Position:** Algorithm Intern, National Key Laboratory for Multimodal Artificial Intelligence Systems 
 
 > **Research Context**  
 >- As digitalization and intelligent technologies continue to advance, time-series data have become ubiquitous in domains such as transportation scheduling, financial analysis, energy management, and industrial monitoring. Accurately forecasting future temporal dynamics is essential for risk warning, resource optimization, and intelligent decision-making, and has also driven the development of general-purpose time-series forecasting models and time-series foundation models.  
