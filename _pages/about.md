@@ -36,6 +36,7 @@ He received his Bachelor’s degree in Artificial Intelligence from NCEPU in 202
 - *2025.12*: &nbsp; Received **First-Class Academic Scholarship for Graduate Students at North China Electric Power University** .
 
 # 🔥 News
+- Preparing for several exciting projects!
 - *2026.04*: &nbsp; One paper accepted by **Pattern Recognition Letters**.
 
 
