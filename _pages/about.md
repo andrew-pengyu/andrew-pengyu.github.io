@@ -31,10 +31,11 @@ He received his Bachelor’s degree in Artificial Intelligence from NCEPU in 202
 
 
 # 🎖 Honors and Awards
-- *2026.12*: &nbsp; Received **First-Class Academic Scholarship for Graduate Students at North China Electric Power University** .
-- *2026.12*: &nbsp; Received **Outstanding Graduate Student at North China Electric Power University** .
+- *2026.12*: &nbsp; Received **First-Class Academic Scholarship for Graduate Students**  at North China Electric Power University.
+- *2026.12*: &nbsp; Received **Outstanding Graduate Student**  at North China Electric Power University.
+- *2026.09*: &nbsp; **Ranked 1st by GPA in both the Artificial Intelligence major and the overall computer-related cohort**  at North China Electric Power University.
 - *2026.02*: &nbsp; Received **["The AI Time 2025 Outstanding Contribution Award"](https://mp.weixin.qq.com/s/t8uQK37QBx1Wlxi6p0YNMQ)** .
-- *2025.12*: &nbsp; Received **First-Class Academic Scholarship for Graduate Students at North China Electric Power University** .
+- *2025.12*: &nbsp; Received **First-Class Academic Scholarship for Graduate Students**  at North China Electric Power University.
 
 # 🔥 News
 - Preparing for several exciting projects!
