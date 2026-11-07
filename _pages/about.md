@@ -31,7 +31,8 @@ He received his Bachelor’s degree in Artificial Intelligence from NCEPU in 202
 
 
 # 🎖 Honors and Awards
-
+- *2025.12*: &nbsp; Received **First-Class Academic Scholarship for Graduate Students at North China Electric Power University** .
+- *2025.12*: &nbsp; Received **Outstanding Graduate Student at North China Electric Power University** .
 - *2026.02*: &nbsp; Received **["The AI Time 2025 Outstanding Contribution Award"](https://mp.weixin.qq.com/s/t8uQK37QBx1Wlxi6p0YNMQ)** .
 - *2025.12*: &nbsp; Received **First-Class Academic Scholarship for Graduate Students at North China Electric Power University** .
 
@@ -50,7 +51,7 @@ He received his Bachelor’s degree in Artificial Intelligence from NCEPU in 202
 
 Wenjia Li, Shangxiao Qiao, **Pengyu Zhu**, Yixuan Zhao, Zhenyu Wang\*
 
-**Pattern Recognition Letters** 2026
+**Pattern Recognition Letters 2026 ·Second student author** 
 </div>
 </div>
 
@@ -68,7 +69,7 @@ Wenjia Li, Shangxiao Qiao, **Pengyu Zhu**, Yixuan Zhao, Zhenyu Wang\*
 
 Jiamin Wu†, Zichen Ren†, Junyu Wang, **Pengyu Zhu**, Yonghao Song, Mianxin Liu, Qihao Zheng, Lei Bai, Wanli Ouyang\*, Chunfeng Song\*
 
-**Technical Report @ 2025**
+**Technical Report @ 2025 ·Third student author**
 </div>
 </div>
 
@@ -83,7 +84,7 @@ Jiamin Wu†, Zichen Ren†, Junyu Wang, **Pengyu Zhu**, Yonghao Song, Mianxin L
   
 Weiheng Lu†, Chunfeng Song†, Jiamin Wu\*, **Pengyu Zhu**, Yuchen Zhou, Weijian Mai, Qihao Zheng, Wanli Ouyang
 
-**Technical Report @ 2025**
+**Technical Report @ 2025 ·Second student author**
 </div>
 </div>
 
@@ -97,7 +98,7 @@ Weiheng Lu†, Chunfeng Song†, Jiamin Wu\*, **Pengyu Zhu**, Yuchen Zhou, Weiji
   
  **Pengyu Zhu†**, Xiaojing zhang†, Kunbo Zhang, Chunyan Zhang, Zhenyu Wang
 
-**Survey @ 2026**
+**Survey @ 2026 ·First author**
 </div>
 </div>
 
